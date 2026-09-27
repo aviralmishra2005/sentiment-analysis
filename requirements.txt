@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow==2.21.0
+torch==2.14.0
+transformers==5.17.0
+accelerate==1.15.0
+joblib
+matplotlib
