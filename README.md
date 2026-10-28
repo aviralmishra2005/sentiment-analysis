@@ -1,6 +1,6 @@
 # 💬 Sentiment Analysis System
 
-A machine-learning and deep-learning based sentiment analysis system developed as a B.Tech major project.
+A machine-learning and deep-learning based sentiment analysis system comparing ML/DL models with real-time predictions and confidence scores using Streamlit.
 
 The project compares traditional machine-learning algorithms with an LSTM neural network and a Transformer-based DistilBERT model for binary sentiment classification using the Sentiment140 dataset.
 
